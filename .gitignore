@@ -42,3 +42,5 @@ yarn-error.*
 
 # MCP config (contains server URLs — do not commit)
 .mcp.json
+.env
+.env.local

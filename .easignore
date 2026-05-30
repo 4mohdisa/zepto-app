@@ -1,0 +1,9 @@
+.env
+.env.local
+.env.development
+.mcp.json
+*.md
+docs/
+.git/
+.claude/
+IMG_*.png
